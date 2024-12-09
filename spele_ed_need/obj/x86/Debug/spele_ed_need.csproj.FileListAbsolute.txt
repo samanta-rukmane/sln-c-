@@ -1,0 +1,10 @@
+C:\Users\saman\OneDrive\Рабочий стол\du\2.course\c#\projects\Game_Edible_Inedible\spele_ed_need\bin\Debug\spele_ed_need.exe.config
+C:\Users\saman\OneDrive\Рабочий стол\du\2.course\c#\projects\Game_Edible_Inedible\spele_ed_need\bin\Debug\spele_ed_need.exe
+C:\Users\saman\OneDrive\Рабочий стол\du\2.course\c#\projects\Game_Edible_Inedible\spele_ed_need\bin\Debug\spele_ed_need.pdb
+C:\Users\saman\OneDrive\Рабочий стол\du\2.course\c#\projects\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.csproj.AssemblyReference.cache
+C:\Users\saman\OneDrive\Рабочий стол\du\2.course\c#\projects\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.Form1.resources
+C:\Users\saman\OneDrive\Рабочий стол\du\2.course\c#\projects\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.Properties.Resources.resources
+C:\Users\saman\OneDrive\Рабочий стол\du\2.course\c#\projects\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.csproj.GenerateResource.cache
+C:\Users\saman\OneDrive\Рабочий стол\du\2.course\c#\projects\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Рабочий стол\du\2.course\c#\projects\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.exe
+C:\Users\saman\OneDrive\Рабочий стол\du\2.course\c#\projects\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.pdb
